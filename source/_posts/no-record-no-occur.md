@@ -6,7 +6,7 @@ date: 2021/7/25
 > 没有记录就没有发生。而记录本身已经是一种反抗。
 > via [hayami](https://telegra.ph/%E8%AE%B0%E5%BD%95%E6%9C%AC%E8%BA%AB%E5%B7%B2%E7%BB%8F%E6%98%AF%E4%B8%80%E7%A7%8D%E5%8F%8D%E6%8A%97-07-02)
 
-这段话摘自_早见hayami_的telegram频道[日常人间观察](https://t.me/hayami_kiraa)。
+这段话摘自*早见hayami*的telegram频道[日常人间观察](https://t.me/hayami_kiraa)。
 
 写这篇文字的契机是，早上看见一个同学在动态里写：
 
