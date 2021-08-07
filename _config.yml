@@ -105,3 +105,18 @@ deploy:
   type: git
   repo: git@github.com:heddxh/hexo.git
   branch: deploy
+  
+# Feed&RSS
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 0
+  hub:
+  content: true
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
