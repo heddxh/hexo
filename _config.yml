@@ -101,10 +101,10 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: git@github.com:heddxh/hexo.git
-  branch: deploy
+# deploy:
+  # type: git
+  # repo: git@github.com:heddxh/hexo.git
+  # branch: deploy
   
 # Feed&RSS
 feed:
