@@ -1,4 +1,10 @@
-# flomo
+---
+title: 那么，各自安好
+date: 2021/8/11
+---
+
+flomo out test
+<!-- more -->
 
 #### 202101 @ flomo
 
