@@ -1,6 +1,6 @@
 ---
-title: 那么，各自安好
-date: 2021/8/11
+title: flomo
+date: 2022/2/4
 ---
 
 flomo out test
